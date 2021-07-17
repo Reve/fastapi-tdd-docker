@@ -1,2 +1,6 @@
 __pycache__
 env
+.vscode/
+project/htmlcov/
+project/.coveragerc
+project/.coverage
